@@ -3,5 +3,5 @@
 
 Acesse aqui o meu projeto com Bootstrap 5:
 
-<a href="https://lucas-lion.github.io/confeitaria/website/index.html">Lion's Cake</a> <br>
+<a href="https://lucas-lion.github.io/confeitariaApp/website/index.html">Lion's Cake</a> <br>
 
