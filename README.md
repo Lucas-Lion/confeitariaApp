@@ -1,23 +1,22 @@
 # ConfeitariaApp - Projeto Frontend
-Este repositório contém o código do frontend para um aplicativo de confeitaria. O projeto foca na criação do layout e da interface do usuário, não incluindo funcionalidades de backend.
+Este repositório contém o código do frontend para um aplicativo de confeitaria. O projeto foca na criação do layout e da interface do usuário, não incluindo funcionalidades de backend. <br>
 
-# GitPages
+GitPages <br>
 
-<a href="https://lucas-lion.github.io/confeitariaApp/website/index.html">Lion's Cake</a>
+<a href="https://lucas-lion.github.io/confeitariaApp/website/index.html">Lion's Cake</a> <br>
 
-# Visão Geral
-O ConfeitariaApp é uma aplicação de exemplo que visa demonstrar um layout responsivo e amigável para uma plataforma de confeitaria. Desenvolvido utilizando tecnologias web comuns, como HTML, CSS e possivelmente frameworks adicionais (se utilizados).
+Visão Geral <br>
+O ConfeitariaApp é uma aplicação de exemplo que visa demonstrar um layout responsivo e amigável para uma plataforma de confeitaria. Desenvolvido utilizando tecnologias web comuns, como HTML, CSS e possivelmente frameworks adicionais (se utilizados). <br>
 
-# Como Utilizar
-Para visualizar ou testar o projeto localmente, siga estas instruções:
+Como Utilizar <br>
+Para visualizar ou testar o projeto localmente, siga estas instruções: <br>
 
-# Pré-requisitos
-Navegador web (recomenda-se Google Chrome, Mozilla Firefox, Safari, etc.)
+Pré-requisitos <br>
+Navegador web (recomenda-se Google Chrome, Mozilla Firefox, Safari, etc.) <br>
 
-# Clone o Repositório:
+Clone o Repositório: <br>
+git clone https://github.com/Lucas-Lion/confeitariaApp.git <br>
 
-git clone https://github.com/Lucas-Lion/confeitariaApp.git
 
-
-Autor
+Autor <br>
 Nome: Lucas Lion
