@@ -5,7 +5,7 @@ GitPages <br>
 
 <a href="https://lucas-lion.github.io/confeitariaApp/website/index.html">Lion's Cake</a> <br>
 
-Visão Geral <br>
+<strong>Visão Geral</strong> <br>
 O ConfeitariaApp é uma aplicação de exemplo que visa demonstrar um layout responsivo e amigável para uma plataforma de confeitaria. Desenvolvido utilizando tecnologias web comuns, como HTML, CSS e possivelmente frameworks adicionais (se utilizados). <br>
 
 Como Utilizar <br>
